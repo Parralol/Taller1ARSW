@@ -3,7 +3,7 @@
 This is a introductory assigment made to understand and develop the "skeleton" of a program
 
 ## Getting Started
-
+Link repositorio https://github.com/Parralol/Taller1ARSW
 ### Prerequisites
 To be able to execute this programm you will need to execute
 
