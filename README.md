@@ -109,8 +109,8 @@ java -cp target/miprimera-app-1.0-SNAPSHOT.jar edu.escuelaing.arsw.ASE.app.App
 ```
 ## Build with
 
-* Maven - Dependency manager
-* Java - Programming Language
+* [Maven](https://maven.apache.org/) - Dependency manager
+* [Java](https://www.oracle.com/java/technologies/) - Programming Language
 
 ## Authors
 
