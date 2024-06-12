@@ -1,4 +1,4 @@
-# Taller1ARSW
+# Taller1 ARSW
 
 This is a introductory assigment made to understand and develop the "skeleton" of a program
 
