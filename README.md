@@ -4,12 +4,26 @@ This is a introductory assigment made to understand and develop the "skeleton" o
 
 ## Getting Started
 Link repositorio https://github.com/Parralol/Taller1ARSW
+
+
 ### Prerequisites
-To be able to execute this programm you will need to execute
+
+to see the java version we are using we need
 
 ```
-maven package
+java -version
 ```
+
+![image](https://github.com/Parralol/Taller1ARSW/assets/110953563/6088e13f-2c49-4e5f-9eb3-c09642af5d65)
+
+
+to see the maven version we are using we need
+
+```
+mvn -version
+```
+
+![image](https://github.com/Parralol/Taller1ARSW/assets/110953563/0c2f20e7-a955-4aa5-bb92-a073488ba7e1)
 
 ### Installing
 
